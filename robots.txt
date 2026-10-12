@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://learn-korean-daily.howlane.com/sitemap.xml
